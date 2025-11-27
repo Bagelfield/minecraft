@@ -1,0 +1,13 @@
+spawn copains 1960 -62
+portail nether spawn : 7456 -2588 75
+sorcière : 10614 -2267
+
+9986 -6102 village
+village glacé 4408 268
+packed ice : 5676 -1091
+6217 -1072 village avec villageois base 1
+ferme mob : 8963 -9068
+village proche ferme mob : 9101 -8461
+temple sous marin 9716 -7447
+strong hold 8085 -7731
+tp end portal -322 -962
